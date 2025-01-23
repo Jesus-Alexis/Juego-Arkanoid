@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Jersey+15&family=Silkscreen:wght@400;700&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  background-color: #333;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  text-align: center;
+  margin: 20px;
+  text-transform: uppercase;
+  font-family: "Silkscreen", serif;
+}
+
+canvas {
+  border: 4px solid #fff;
+  border-bottom: transparent;
+  background: url("Img/bkg.png") repeat;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.4);
+}
