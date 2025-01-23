@@ -1,3 +1,3 @@
 # ARKANOID
 
-![img/arkanoid.png];
+![](img/arkanoid.png);
